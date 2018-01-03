@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">拼方塊</string>
+    <string name="select_button">選擇圖形</string>
+    <string name="alert_previous">上一個</string>
+    <string name="alert_next">下一個</string>
+    <string name="OK">確認</string>
+    <string name="corrent_num">當前選擇:</string>
+    <string name="rotate">旋轉</string>
+    <string name="ON">開啟</string>
+    <string name="OFF">關閉</string>
+    <string name="game_again">重新來過</string>
+    <string name="congratulations">恭喜通關</string>
+    <string name="time">時間</string>
+    <string name="min">分鐘</string>
+    <string name="sec">秒</string>
+    <string name="steps">步數</string>
+    <string name="loading">Loading&#8230;</string>
+    <string name="press_any_key">按任意處繼續</string>
+    <string name="double_press_message">長按返回退出</string>
+    <string name="start_game">開始</string>
+    <string name="settings">設定</string>
+    <string name="about">關於</string>
+    <string name="exit">離開</string>
+    <string name="reset">重設</string>
+    <string name="cancel">取消</string>
+</resources>

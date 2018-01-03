@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="woodColor1">#AA551C</color>
+    <color name="woodColor2">#C6711C</color>
+    <color name="blackboard">#008d38</color>
+    <color name="chalk">#e2e2e2</color>
+    <color name="halfTransparent">#80000000</color>
+    <color name="customGreen">#02DF82</color>
+</resources>

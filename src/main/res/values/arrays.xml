@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_button">
+        <item>@string/start_game</item>
+        <item>@string/reset</item>
+        <item>@string/about</item>
+        <item>@string/exit</item>
+    </string-array>
+</resources>
